@@ -1,0 +1,21 @@
+{
+  "name": "testSync",
+  "type": "package",
+  "blockId": "fh8Ey_wbycBjgC2tzDWf4",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_testSync"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "ts_1": {
+      "directory": "ts_1"
+    }
+  }
+}
