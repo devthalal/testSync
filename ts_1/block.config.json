@@ -3,8 +3,8 @@
   "name": "ts_1",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/devthalal/testSync.git",
+    "ssh": "git@github.com:devthalal/testSync.git",
     "branch": "block_ts_1"
   },
   "parentBlockIDs": [
