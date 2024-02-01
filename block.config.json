@@ -1,0 +1,20 @@
+{
+  "blockId": "PrNv-Fmk8Y6YLOx3xaReE",
+  "name": "ts_1",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/devthalal/testSync.git",
+    "ssh": "git@github.com:devthalal/testSync.git",
+    "branch": "block_ts_1"
+  },
+  "parentBlockIDs": [
+    "fh8Ey_wbycBjgC2tzDWf4"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
